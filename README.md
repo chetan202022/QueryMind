@@ -137,3 +137,4 @@ This project is open-source and available under the MIT License.
 **Chetan Yadav**
 
 GitHub: https://github.com/chetan202022
+LinkedIn: https://www.linkedin.com/in/chetan--yadav
