@@ -11,7 +11,7 @@ An AI-powered command-line chatbot built with **Python** and the **Groq API**, e
 ## 📸 Preview
 
 <p align="center">
-<img src="./Screenshots/demo.png" width="90%" alt="QueryMind Demo"/>
+<img src="./Screenshots/demo.png" width="100%" alt="QueryMind Demo"/>
 </p>
 
 ---
